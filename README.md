@@ -1,6 +1,6 @@
 # ADS-UPF
 
-Aqui você vai encontrar materiais de todas as disciplinas do curso de Análise e Desenvolvimento de Sistemas da Universidade de Passo Fundo.
+Aqui você vai encontrar materiais de disciplinas do curso de Análise e Desenvolvimento de Sistemas da Universidade de Passo Fundo.
 
 ## Formato dos nomes dos arquivos de cada matéria:  
 `<nome da disciplina> / <ano> - <semestre> - Prova [Recuperação] NP <número> [ - Parte <número>].<extensão>`
