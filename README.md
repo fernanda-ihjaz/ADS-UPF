@@ -24,4 +24,4 @@ Aqui você vai encontrar materiais de disciplinas do curso de Análise e Desenvo
 
 ## Projetos semelhantes
 
-* Esse projeto foi inspirado no repositório de materiais da UFFS: https://github.com/rafinhadufluxo/Materias-UFFS
+* Esse projeto foi inspirado no repositório [Materiais UFFS](https://github.com/rafinhadufluxo/Materias-UFFS) da [rafinhadufluxo](https://github.com/rafinhadufluxo)
